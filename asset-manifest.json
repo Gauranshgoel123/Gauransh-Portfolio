@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/css/main.cce9db65.css",
-    "main.js": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/js/main.84481ec9.js",
-    "static/media/SkillsImage.png": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/SkillsImage.51e40da64df180a7669a.png",
-    "static/media/project-6.png": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/project-6.9ddb35a2fc4d015258a8.png",
-    "static/media/project-2.jpeg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/project-2.0b26b0692e9a610483a4.jpeg",
-    "static/media/project-1.jpeg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
-    "static/media/gg-pic.jpg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/gg-pic.73c7a39c4a340a662f64.jpg",
-    "static/media/brush.png": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/brush.85c9bab5ba2d7dcae1e3.png",
-    "static/media/contact-image.jpg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/contact-image.92342f231ca3e9f53d65.jpg",
-    "static/media/project-5.jpg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/project-5.4ce3fcc8b2978d0b1929.jpg",
-    "static/media/react.png": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/react.7f1650427b21802084eb.png",
-    "static/media/project-3.jpg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/project-3.7e13ab792fc80b94a7b7.jpg",
-    "static/media/project-4 .jpg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/project-4 .7b3a46b9a5b62147f0ba.jpg",
-    "static/media/codsoft.png": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/codsoft.455dece284a7662b093d.png",
-    "index.html": "/Gauranshgoel123/PORTFOLIO-GAURANSH/index.html",
-    "static/media/icons8-menu-32.svg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/icons8-menu-32.987ec01966f8643afbb4e470fd28c277.svg",
-    "static/media/close-icon.svg": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
-    "main.cce9db65.css.map": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/css/main.cce9db65.css.map",
-    "main.84481ec9.js.map": "/Gauranshgoel123/PORTFOLIO-GAURANSH/static/js/main.84481ec9.js.map"
+    "main.css": "/Gauranshgoel123/my-portfolio/static/css/main.84518373.css",
+    "main.js": "/Gauranshgoel123/my-portfolio/static/js/main.0c23dffa.js",
+    "static/media/SkillsImage.png": "/Gauranshgoel123/my-portfolio/static/media/SkillsImage.51e40da64df180a7669a.png",
+    "static/media/project-6.png": "/Gauranshgoel123/my-portfolio/static/media/project-6.9ddb35a2fc4d015258a8.png",
+    "static/media/project-2.jpeg": "/Gauranshgoel123/my-portfolio/static/media/project-2.0b26b0692e9a610483a4.jpeg",
+    "static/media/project-1.jpeg": "/Gauranshgoel123/my-portfolio/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
+    "static/media/gg-pic.jpg": "/Gauranshgoel123/my-portfolio/static/media/gg-pic.73c7a39c4a340a662f64.jpg",
+    "static/media/brush.png": "/Gauranshgoel123/my-portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
+    "static/media/contact-image.jpg": "/Gauranshgoel123/my-portfolio/static/media/contact-image.92342f231ca3e9f53d65.jpg",
+    "static/media/project-5.jpg": "/Gauranshgoel123/my-portfolio/static/media/project-5.4ce3fcc8b2978d0b1929.jpg",
+    "static/media/react.png": "/Gauranshgoel123/my-portfolio/static/media/react.7f1650427b21802084eb.png",
+    "static/media/project-3.jpg": "/Gauranshgoel123/my-portfolio/static/media/project-3.7e13ab792fc80b94a7b7.jpg",
+    "static/media/project-4 .jpg": "/Gauranshgoel123/my-portfolio/static/media/project-4 .7b3a46b9a5b62147f0ba.jpg",
+    "static/media/codsoft.png": "/Gauranshgoel123/my-portfolio/static/media/codsoft.455dece284a7662b093d.png",
+    "index.html": "/Gauranshgoel123/my-portfolio/index.html",
+    "static/media/icons8-menu-32.svg": "/Gauranshgoel123/my-portfolio/static/media/icons8-menu-32.987ec01966f8643afbb4e470fd28c277.svg",
+    "static/media/close-icon.svg": "/Gauranshgoel123/my-portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
+    "main.84518373.css.map": "/Gauranshgoel123/my-portfolio/static/css/main.84518373.css.map",
+    "main.0c23dffa.js.map": "/Gauranshgoel123/my-portfolio/static/js/main.0c23dffa.js.map"
   },
   "entrypoints": [
-    "static/css/main.cce9db65.css",
-    "static/js/main.84481ec9.js"
+    "static/css/main.84518373.css",
+    "static/js/main.0c23dffa.js"
   ]
 }
