@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/Gauranshgoel123/PORTFOLIO-GAURANSH.git",
+  "homepage": "https://github.com/Gauranshgoel123/PORTFOLIO-GAURANSH",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
