@@ -62,7 +62,7 @@ const Landing = ({ setSelectedPage }) => {
                 
                 <p className="mt-10 mb-7 text-center md:text-start text-md">
                 I'm currently pursuing a Bachelor's degree in Computer Science and Engineering from
-                Bhagwan Parshuram Institute of Technology, affiliated with Indraprastha University in New Delhi.
+                Bhagwan Parshuram Institute of Technology, affiliated with Guru Gobind Singh Indraprastha University, New Delhi.
                 </p>
 
             </motion.div>
