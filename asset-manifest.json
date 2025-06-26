@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Gauransh-Portfolio/static/css/main.f06a6d20.css",
-    "main.js": "/Gauransh-Portfolio/static/js/main.a128385c.js",
+    "main.js": "/Gauransh-Portfolio/static/js/main.e2c9a37a.js",
     "static/media/gif.gif": "/Gauransh-Portfolio/static/media/gif.465fc5f701550cc1ce7f.gif",
     "static/media/project-6.png": "/Gauransh-Portfolio/static/media/project-6.9ddb35a2fc4d015258a8.png",
     "static/media/postgresql.png": "/Gauransh-Portfolio/static/media/postgresql.16204b5cad313ff59689.png",
     "static/media/project-2.jpeg": "/Gauransh-Portfolio/static/media/project-2.0b26b0692e9a610483a4.jpeg",
-    "static/media/gpic3.jpg": "/Gauransh-Portfolio/static/media/gpic3.7f81f17f6e210cf7ff6b.jpg",
+    "static/media/gpic5.jpg": "/Gauransh-Portfolio/static/media/gpic5.d2bda4177a36df931bb2.jpg",
     "static/media/project-1.jpeg": "/Gauransh-Portfolio/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
     "static/media/brush.png": "/Gauransh-Portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/contact-image.jpg": "/Gauransh-Portfolio/static/media/contact-image.92342f231ca3e9f53d65.jpg",
@@ -25,10 +25,10 @@
     "static/media/icons8-menu-32.svg": "/Gauransh-Portfolio/static/media/icons8-menu-32.987ec01966f8643afbb4e470fd28c277.svg",
     "static/media/close-icon.svg": "/Gauransh-Portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
     "main.f06a6d20.css.map": "/Gauransh-Portfolio/static/css/main.f06a6d20.css.map",
-    "main.a128385c.js.map": "/Gauransh-Portfolio/static/js/main.a128385c.js.map"
+    "main.e2c9a37a.js.map": "/Gauransh-Portfolio/static/js/main.e2c9a37a.js.map"
   },
   "entrypoints": [
     "static/css/main.f06a6d20.css",
-    "static/js/main.a128385c.js"
+    "static/js/main.e2c9a37a.js"
   ]
 }
