@@ -1,27 +1,34 @@
 {
   "files": {
-    "main.css": "/Gauransh-Portfolio/static/css/main.ad9df7f1.css",
-    "main.js": "/Gauransh-Portfolio/static/js/main.e1f5232f.js",
-    "static/media/SkillsImage.png": "/Gauransh-Portfolio/static/media/SkillsImage.51e40da64df180a7669a.png",
+    "main.css": "/Gauransh-Portfolio/static/css/main.f06a6d20.css",
+    "main.js": "/Gauransh-Portfolio/static/js/main.fb56bc9c.js",
+    "static/media/gif.gif": "/Gauransh-Portfolio/static/media/gif.465fc5f701550cc1ce7f.gif",
     "static/media/project-6.png": "/Gauransh-Portfolio/static/media/project-6.9ddb35a2fc4d015258a8.png",
+    "static/media/postgresql.png": "/Gauransh-Portfolio/static/media/postgresql.16204b5cad313ff59689.png",
     "static/media/project-2.jpeg": "/Gauransh-Portfolio/static/media/project-2.0b26b0692e9a610483a4.jpeg",
     "static/media/project-1.jpeg": "/Gauransh-Portfolio/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
-    "static/media/gg-pic.jpg": "/Gauransh-Portfolio/static/media/gg-pic.73c7a39c4a340a662f64.jpg",
+    "static/media/gg prof pic ai.jpg": "/Gauransh-Portfolio/static/media/gg prof pic ai.3b25e0a46988657c1b63.jpg",
     "static/media/brush.png": "/Gauransh-Portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/contact-image.jpg": "/Gauransh-Portfolio/static/media/contact-image.92342f231ca3e9f53d65.jpg",
     "static/media/project-5.jpg": "/Gauransh-Portfolio/static/media/project-5.4ce3fcc8b2978d0b1929.jpg",
     "static/media/react.png": "/Gauransh-Portfolio/static/media/react.7f1650427b21802084eb.png",
+    "static/media/javapic.png": "/Gauransh-Portfolio/static/media/javapic.1c2ae6f23b520e06b67d.png",
     "static/media/project-3.jpg": "/Gauransh-Portfolio/static/media/project-3.7e13ab792fc80b94a7b7.jpg",
     "static/media/project-4 .jpg": "/Gauransh-Portfolio/static/media/project-4 .7b3a46b9a5b62147f0ba.jpg",
+    "static/media/ex.png": "/Gauransh-Portfolio/static/media/ex.51750e8001208c3f6d10.png",
     "static/media/codsoft.png": "/Gauransh-Portfolio/static/media/codsoft.455dece284a7662b093d.png",
+    "static/media/slick.svg": "/Gauransh-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Gauransh-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Gauransh-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Gauransh-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Gauransh-Portfolio/index.html",
     "static/media/icons8-menu-32.svg": "/Gauransh-Portfolio/static/media/icons8-menu-32.987ec01966f8643afbb4e470fd28c277.svg",
     "static/media/close-icon.svg": "/Gauransh-Portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
-    "main.ad9df7f1.css.map": "/Gauransh-Portfolio/static/css/main.ad9df7f1.css.map",
-    "main.e1f5232f.js.map": "/Gauransh-Portfolio/static/js/main.e1f5232f.js.map"
+    "main.f06a6d20.css.map": "/Gauransh-Portfolio/static/css/main.f06a6d20.css.map",
+    "main.fb56bc9c.js.map": "/Gauransh-Portfolio/static/js/main.fb56bc9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad9df7f1.css",
-    "static/js/main.e1f5232f.js"
+    "static/css/main.f06a6d20.css",
+    "static/js/main.fb56bc9c.js"
   ]
 }
