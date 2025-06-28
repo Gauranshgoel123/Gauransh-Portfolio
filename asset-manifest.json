@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Gauransh-Portfolio/static/css/main.ffe2ac48.css",
-    "main.js": "/Gauransh-Portfolio/static/js/main.a3ab380c.js",
+    "main.js": "/Gauransh-Portfolio/static/js/main.45cba97e.js",
     "static/media/gif.gif": "/Gauransh-Portfolio/static/media/gif.465fc5f701550cc1ce7f.gif",
     "static/media/project-6.png": "/Gauransh-Portfolio/static/media/project-6.9ddb35a2fc4d015258a8.png",
     "static/media/postgresql.png": "/Gauransh-Portfolio/static/media/postgresql.16204b5cad313ff59689.png",
+    "static/media/gpic9.jpg": "/Gauransh-Portfolio/static/media/gpic9.03b1b39d8a2f87c6b437.jpg",
     "static/media/project-2.jpeg": "/Gauransh-Portfolio/static/media/project-2.0b26b0692e9a610483a4.jpeg",
     "static/media/project-1.jpeg": "/Gauransh-Portfolio/static/media/project-1.f3b907cc9bc300f0c439.jpeg",
-    "static/media/gpic4.jpg": "/Gauransh-Portfolio/static/media/gpic4.5337d37fb27175d6fa11.jpg",
     "static/media/brush.png": "/Gauransh-Portfolio/static/media/brush.85c9bab5ba2d7dcae1e3.png",
     "static/media/contact-image.jpg": "/Gauransh-Portfolio/static/media/contact-image.92342f231ca3e9f53d65.jpg",
     "static/media/project-5.jpg": "/Gauransh-Portfolio/static/media/project-5.4ce3fcc8b2978d0b1929.jpg",
@@ -25,10 +25,10 @@
     "static/media/icons8-menu-32.svg": "/Gauransh-Portfolio/static/media/icons8-menu-32.987ec01966f8643afbb4e470fd28c277.svg",
     "static/media/close-icon.svg": "/Gauransh-Portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
     "main.ffe2ac48.css.map": "/Gauransh-Portfolio/static/css/main.ffe2ac48.css.map",
-    "main.a3ab380c.js.map": "/Gauransh-Portfolio/static/js/main.a3ab380c.js.map"
+    "main.45cba97e.js.map": "/Gauransh-Portfolio/static/js/main.45cba97e.js.map"
   },
   "entrypoints": [
     "static/css/main.ffe2ac48.css",
-    "static/js/main.a3ab380c.js"
+    "static/js/main.45cba97e.js"
   ]
 }
