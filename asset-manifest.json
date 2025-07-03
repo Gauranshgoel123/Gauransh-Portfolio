@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Gauransh-Portfolio/static/css/main.d85b658f.css",
-    "main.js": "/Gauransh-Portfolio/static/js/main.2c445f97.js",
+    "main.js": "/Gauransh-Portfolio/static/js/main.9828227b.js",
     "static/media/gif.gif": "/Gauransh-Portfolio/static/media/gif.465fc5f701550cc1ce7f.gif",
     "static/media/project-6.png": "/Gauransh-Portfolio/static/media/project-6.9ddb35a2fc4d015258a8.png",
     "static/media/postgresql.png": "/Gauransh-Portfolio/static/media/postgresql.16204b5cad313ff59689.png",
@@ -25,10 +25,10 @@
     "static/media/icons8-menu-32.svg": "/Gauransh-Portfolio/static/media/icons8-menu-32.987ec01966f8643afbb4e470fd28c277.svg",
     "static/media/close-icon.svg": "/Gauransh-Portfolio/static/media/close-icon.36a1df96f812b5f4c12f817f90a904c6.svg",
     "main.d85b658f.css.map": "/Gauransh-Portfolio/static/css/main.d85b658f.css.map",
-    "main.2c445f97.js.map": "/Gauransh-Portfolio/static/js/main.2c445f97.js.map"
+    "main.9828227b.js.map": "/Gauransh-Portfolio/static/js/main.9828227b.js.map"
   },
   "entrypoints": [
     "static/css/main.d85b658f.css",
-    "static/js/main.2c445f97.js"
+    "static/js/main.9828227b.js"
   ]
 }
